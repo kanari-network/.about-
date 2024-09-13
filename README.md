@@ -1,2 +1,4 @@
 # about
-soon
+
+
+<img src="./kari1.png">
